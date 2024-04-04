@@ -2,7 +2,7 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Sobre Mim</h2>
-<p align="left">Olá, sou João Marcos, um entusiasta apaixonado pela área da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me dedico ao estudo da linguagem Java. Sou uma pessoa altamente empenhada em aprender e crescer na minha carreira como desenvolvedor. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
+<p align="left">Olá, sou João Marcos, um entusiasta pela área da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me dedico ao estudo da linguagem Java. Sou uma pessoa altamente empenhada em aprender e crescer na minha carreira como desenvolvedor. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
 </p>
 
 <h2 align="center">Conhecimentos: Linguagens e Ferramentas</h2>
