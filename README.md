@@ -1,16 +1,18 @@
-### Hi there 👋
+### Olá todos 👋
 
-<!--
-**joa1cardoso/joa1cardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--Languages and Tools Section-->       
+<h2 align="center">Sobre Mim</h2>
+<p align="left">Olá, sou João Marcos, um entusiasta apaixonado pela área da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me dedico ao estudo da linguagem Java. Sou uma pessoa altamente empenhada em aprender e crescer na minha carreira como desenvolvedor. Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos inovadores.
+</p>
 
-Here are some ideas to get you started:
+<h2 align="center">Conhecimentos: Linguagens e Ferramentas</h2>
+<p align="center">
+<img width="500px" src="https://skillicons.dev/icons?i=java,spring,git,github,mysql,vscode,eclipse&perline=10" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Minha rede social principal 🤝 </h2>
+<div align="center">
+ <a href="www.linkedin.com/in/jao1cardoso" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
