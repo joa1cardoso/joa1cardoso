@@ -1,16 +1,16 @@
 ### Olá todos 👋
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Sobre Mim</h2>
-<p align="left">Olá, sou João Marcos, um iniciante na área da programação. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e me dedico ao estudo da linguagem Java. Sou uma pessoa com muita vontade em aprender! Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos.
+<h2 align="center"><strong>Sobre Mim</strong></h2>
+<p align="left">Olá, sou João Marcos, um iniciante na área da programação. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e me dedico ao estudo da linguagem <strong>Java</strong>. Sou uma pessoa com muita vontade em aprender! Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos.
 </p>
 
-<h2 align="center">Conhecimentos: Linguagens e Ferramentas</h2>
+<h2 align="center"><strong>Conhecimentos: Linguagens e Ferramentas</strong></h2>
 <p align="center">
 <img width="500px" src="https://skillicons.dev/icons?i=java,spring,nodejs,react,javascript,html,css,git,github,mysql,vscode,eclipse,idea&perline=10" />
 </p>
 
-<h2 align="center">Contato</h2>
+<h2 align="center"><strong>Contato</strong></h2>
 <h3 align="center">Fique à vontade para entrar em contato comigo através dos seguintes meios: </h3>
 
 
