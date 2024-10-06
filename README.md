@@ -2,7 +2,7 @@
 
 <!--Languages and Tools Section-->       
 <h2 align="center"><strong>Sobre Mim</strong></h2>
-<p align="left">Olá, sou João Marcos, um iniciante na área da programação. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e me dedico ao estudo da linguagem <strong>Java</strong>. Tenho conhecimentos em outras linguagens que já tive oportunidade de aplicar como <strong>Node.js</strong>, <strong>Python</strong>. Sou uma pessoa com muita vontade em aprender! Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos.
+<p align="left">Olá, sou João Marcos, um iniciante na área da programação. Atualmente, estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong> e me dedico ao estudo da linguagem <strong>Java</strong>. Tenho conhecimentos em outras linguagens que já tive oportunidade de aplicar como <strong>Node.js</strong>e <strong>Python</strong>. Sou uma pessoa com muita vontade em aprender! Estou sempre em busca de desafios e oportunidades para aprimorar minhas habilidades e contribuir para projetos.
 </p>
 
 <h2 align="center"><strong>Conhecimentos: Linguagens e Ferramentas</strong></h2>
