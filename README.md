@@ -7,7 +7,7 @@
 
 <h2 align="center"><strong>Conhecimentos: Linguagens e Ferramentas</strong></h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=java,spring,python,nodejs,react,javascript,html,css,git,github,mysql,mongodb,postgresql,vscode,eclipse,idea&perline=10" />
+<img width="500px" src="https://skillicons.dev/icons?i=java,spring,angular,python,javascript,html,css,git,github,mysql,mongodb,postgresql,vscode,eclipse,idea&perline=10" />
 </p>
 
 <h2 align="center"><strong>Contato</strong></h2>
