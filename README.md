@@ -8,7 +8,7 @@ Olá, sou João Marcos, um iniciante na área da programação. Atualmente, esto
 
 <h2 align="center"><strong>Conhecimentos: Linguagens e Ferramentas</strong></h2>
 <p align="center">
-<img width="500px" src="https://skillicons.dev/icons?i=java,spring,typescript,angular,python,javascript,html,css,git,github,mysql,mongodb,postgresql,vscode,eclipse,idea&perline=10" />
+<img width="500px" src="https://skillicons.dev/icons?i=java,spring,typescript,angular,python,javascript,html,css,git,github,mysql,mongodb,postgresql,vscode,eclipse,aws,dockeridea&perline=10" />
 </p>
 
 <h2 align="center"><strong>Contato</strong></h2>
