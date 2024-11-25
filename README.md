@@ -20,7 +20,7 @@ Olá, sou João Marcos, um iniciante na área da programação. Atualmente, esto
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
   </a>
   <a href="mailto:seuemail@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Hotmail-%230077B5.svg?&style=for-the-badge&logo=hotmail&logoColor=white" alt="hotmail" style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/Hotmail-%230077B5.svg?&style=for-the-badge&logo=mail&logoColor=white" alt="hotmail" style="margin-bottom: 5px;" />
   </a>
 </div>
 
