@@ -15,13 +15,10 @@ Olá, sou João Marcos, um iniciante na área da programação. Atualmente, esto
 <h3 align="center">Fique à vontade para entrar em contato comigo através dos seguintes meios: </h3>
 
 
-<div align="center">
- <a href="https://www.linkedin.com/in/jao1cardoso" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-</div>
-
-<div align="center">
+<div align="center" style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/jao1cardoso" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+  </a>
   <a href="mailto:joaooliveiracardoso@hotmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" />
   </a>
